@@ -18,4 +18,16 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
+## Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
