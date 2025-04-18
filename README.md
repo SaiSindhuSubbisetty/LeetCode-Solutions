@@ -37,6 +37,7 @@ Leetcode Solutions are here......
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0273-integer-to-english-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
