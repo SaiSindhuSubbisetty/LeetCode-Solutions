@@ -10,6 +10,7 @@ Leetcode Solutions are here......
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0797-rabbits-in-forest](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2249-count-the-hidden-sequences](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -97,4 +98,8 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
+## Prefix Sum
+|  |
+| ------- |
+| [2249-count-the-hidden-sequences](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 <!---LeetCode Topics End-->
