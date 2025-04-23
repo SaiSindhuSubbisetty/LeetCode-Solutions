@@ -8,6 +8,7 @@ Leetcode Solutions are here......
 | ------- |
 | [0001-two-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0079-word-search](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0287-find-the-duplicate-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -43,6 +44,7 @@ Leetcode Solutions are here......
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 ## Binary Tree
@@ -54,6 +56,7 @@ Leetcode Solutions are here......
 | ------- |
 | [0038-count-and-say](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0273-integer-to-english-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 ## Math
@@ -80,6 +83,7 @@ Leetcode Solutions are here......
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0079-word-search) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
@@ -137,4 +141,8 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [1622-max-value-of-equation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1622-max-value-of-equation) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
