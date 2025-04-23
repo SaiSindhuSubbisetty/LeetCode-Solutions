@@ -9,6 +9,7 @@ Leetcode Solutions are here......
 | [0001-two-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0797-rabbits-in-forest](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [1622-max-value-of-equation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1622-max-value-of-equation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2249-count-the-hidden-sequences](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
@@ -26,6 +27,7 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [1622-max-value-of-equation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1622-max-value-of-equation) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Tree
 |  |
@@ -109,4 +111,16 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Queue
+|  |
+| ------- |
+| [1622-max-value-of-equation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1622-max-value-of-equation) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1622-max-value-of-equation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1622-max-value-of-equation) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1622-max-value-of-equation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1622-max-value-of-equation) |
 <!---LeetCode Topics End-->
