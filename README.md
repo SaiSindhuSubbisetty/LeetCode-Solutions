@@ -10,6 +10,7 @@ Leetcode Solutions are here......
 | [0041-first-missing-positive](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0169-majority-element](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
@@ -30,6 +31,7 @@ Leetcode Solutions are here......
 | [0001-two-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0797-rabbits-in-forest](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -119,6 +121,7 @@ Leetcode Solutions are here......
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
@@ -156,4 +159,12 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
