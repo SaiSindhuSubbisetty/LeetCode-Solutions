@@ -1,16 +1,28 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int n= nums.length;
-        Map<Integer,Integer> hmap = new HashMap<>();
-        for(int num : nums)
-        {
-            hmap.put(num,hmap.getOrDefault(num, 0) + 1);
-            if(hmap.get(num) > n/2)
+        //Best Solution: Boyer-Moore Voting Algorithm (Optimal)
+        int count = 0;
+        int candidate = 0;
+        for(int num : nums){
+            if(count == 0)
             {
-                return num;
+                candidate = num;
             }
+            count += (num == candidate)?1:-1;
         }
-        return -1;
-         
+        return candidate;
+
     }
 }
+/*
+ Genius Idea:
+We don’t need to count everything. We can “cancel out” different numbers.
+
+Imagine two teams: majority vs. others.
+
+Every time we see the same number, we add to the score.
+
+If we see a different one, we subtract.
+
+If the score hits 0, we switch to a new candidate.
+*/
