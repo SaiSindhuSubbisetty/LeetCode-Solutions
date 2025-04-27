@@ -26,6 +26,7 @@ Leetcode Solutions are here......
 | [2699-count-the-number-of-fair-pairs](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
