@@ -73,6 +73,7 @@ Leetcode Solutions are here......
 | [0151-reverse-words-in-a-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
+| [0868-push-dominoes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 ## Math
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
+| [0868-push-dominoes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [2262-solving-questions-with-brainpower](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Trie
@@ -120,6 +122,7 @@ Leetcode Solutions are here......
 | [0151-reverse-words-in-a-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0868-push-dominoes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
