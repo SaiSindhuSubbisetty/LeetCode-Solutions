@@ -32,6 +32,7 @@ Leetcode Solutions are here......
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
@@ -170,6 +171,7 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [1622-max-value-of-equation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1622-max-value-of-equation) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -179,6 +181,7 @@ Leetcode Solutions are here......
 | ------- |
 | [0054-spiral-matrix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0079-word-search) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -193,4 +196,12 @@ Leetcode Solutions are here......
 | ------- |
 | [0169-majority-element](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Graph
+|  |
+| ------- |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 <!---LeetCode Topics End-->
