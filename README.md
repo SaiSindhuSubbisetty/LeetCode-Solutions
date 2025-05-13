@@ -51,6 +51,7 @@ Leetcode Solutions are here......
 | [2626-count-the-number-of-good-subarrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Leetcode Solutions are here......
 | [0273-integer-to-english-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0868-push-dominoes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0868-push-dominoes) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +95,7 @@ Leetcode Solutions are here......
 | [1500-count-largest-group](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -104,6 +107,7 @@ Leetcode Solutions are here......
 | [0868-push-dominoes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [2262-solving-questions-with-brainpower](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Trie
 |  |
 | ------- |
@@ -199,6 +203,7 @@ Leetcode Solutions are here......
 | ------- |
 | [0169-majority-element](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Graph
 |  |
 | ------- |
