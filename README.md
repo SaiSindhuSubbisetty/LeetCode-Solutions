@@ -36,6 +36,7 @@ Leetcode Solutions are here......
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3321-type-of-triangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
@@ -101,6 +102,7 @@ Leetcode Solutions are here......
 | [1500-count-largest-group](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3321-type-of-triangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Recursion
@@ -163,6 +165,7 @@ Leetcode Solutions are here......
 | [0169-majority-element](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3321-type-of-triangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 ## Greedy
 |  |
 | ------- |
