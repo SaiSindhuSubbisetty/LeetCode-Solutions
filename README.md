@@ -9,6 +9,7 @@ Leetcode Solutions are here......
 | [0001-two-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -46,6 +47,7 @@ Leetcode Solutions are here......
 | [0001-two-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -210,6 +212,7 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0079-word-search) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Simulation
