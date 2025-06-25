@@ -27,6 +27,7 @@ Leetcode Solutions are here......
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
@@ -210,6 +211,7 @@ Leetcode Solutions are here......
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
