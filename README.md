@@ -145,6 +145,7 @@ Leetcode Solutions are here......
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0273-integer-to-english-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0797-rabbits-in-forest](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -163,6 +164,7 @@ Leetcode Solutions are here......
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0273-integer-to-english-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
@@ -346,4 +348,8 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
