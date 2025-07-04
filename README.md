@@ -118,6 +118,7 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0079-word-search) |
@@ -170,6 +171,7 @@ Leetcode Solutions are here......
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0868-push-dominoes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -217,6 +219,7 @@ Leetcode Solutions are here......
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
