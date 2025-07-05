@@ -170,6 +170,7 @@ Leetcode Solutions are here......
 | [3201-distribute-candies-among-children-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -180,6 +181,7 @@ Leetcode Solutions are here......
 | [0002-add-two-numbers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0273-integer-to-english-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -214,6 +216,7 @@ Leetcode Solutions are here......
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Combinatorics
 |  |
 | ------- |
