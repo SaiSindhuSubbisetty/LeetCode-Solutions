@@ -197,6 +197,7 @@ Leetcode Solutions are here......
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0868-push-dominoes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -404,4 +405,8 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0146-lru-cache) |
+## Memoization
+|  |
+| ------- |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 <!---LeetCode Topics End-->
