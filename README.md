@@ -170,6 +170,7 @@ Leetcode Solutions are here......
 | [0013-roman-to-integer](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0273-integer-to-english-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0797-rabbits-in-forest](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -400,6 +401,7 @@ Leetcode Solutions are here......
 | ------- |
 | [0002-add-two-numbers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
 | ------- |
