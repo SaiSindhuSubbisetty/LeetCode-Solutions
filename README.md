@@ -148,6 +148,7 @@ Leetcode Solutions are here......
 | [0778-reorganize-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
