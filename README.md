@@ -28,6 +28,7 @@ Leetcode Solutions are here......
 | [1510-find-lucky-integer-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1622-max-value-of-equation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1622-max-value-of-equation) |
+| [1813-maximum-erasure-value](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -84,6 +85,7 @@ Leetcode Solutions are here......
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -106,6 +108,7 @@ Leetcode Solutions are here......
 | [0424-longest-repeating-character-replacement](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1622-max-value-of-equation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1622-max-value-of-equation) |
+| [1813-maximum-erasure-value](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
