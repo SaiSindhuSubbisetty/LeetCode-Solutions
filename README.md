@@ -44,6 +44,7 @@ Leetcode Solutions are here......
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -118,6 +119,7 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
@@ -127,6 +129,7 @@ Leetcode Solutions are here......
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
@@ -235,6 +238,7 @@ Leetcode Solutions are here......
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
