@@ -7,6 +7,7 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -278,6 +279,7 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -302,6 +304,7 @@ Leetcode Solutions are here......
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
