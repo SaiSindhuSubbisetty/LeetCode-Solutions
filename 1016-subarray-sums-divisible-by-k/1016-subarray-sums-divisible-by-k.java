@@ -9,9 +9,12 @@ class Solution {
             sum += num;
             int remainder = sum%k;
             if(remainder < 0) remainder += k;
-            count += remainderCount.getOrDefault(remainder, 0);
+            if(remainderCount.containsKey(remainder))
+            {
+                count += remainderCount.getOrDefault(remainder, 0);
+            }
             remainderCount.put(remainder, remainderCount.getOrDefault(remainder,0)+1);
-
+            
         }
         return count;
         
