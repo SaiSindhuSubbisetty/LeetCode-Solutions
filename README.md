@@ -221,6 +221,7 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -457,6 +458,7 @@ Leetcode Solutions are here......
 | ------- |
 | [0002-add-two-numbers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
