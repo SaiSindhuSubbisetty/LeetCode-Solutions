@@ -147,6 +147,7 @@ Leetcode Solutions are here......
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -156,6 +157,7 @@ Leetcode Solutions are here......
 | ------- |
 | [0079-word-search](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0207-course-schedule](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
@@ -165,6 +167,7 @@ Leetcode Solutions are here......
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## String
 |  |
@@ -485,6 +488,7 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Union Find
 |  |
