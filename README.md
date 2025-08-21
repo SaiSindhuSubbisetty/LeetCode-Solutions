@@ -89,6 +89,7 @@ Leetcode Solutions are here......
 | [0169-majority-element](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -166,6 +167,7 @@ Leetcode Solutions are here......
 | [0079-word-search](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0387-first-unique-character-in-a-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0778-reorganize-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0778-reorganize-string) |
@@ -379,6 +381,7 @@ Leetcode Solutions are here......
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1622-max-value-of-equation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1622-max-value-of-equation) |
 ## Heap (Priority Queue)
 |  |
@@ -419,6 +422,7 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
