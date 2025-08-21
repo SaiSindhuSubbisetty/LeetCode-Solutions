@@ -7,6 +7,7 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
@@ -172,6 +173,7 @@ Leetcode Solutions are here......
 | [0008-string-to-integer-atoi](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
@@ -269,6 +271,7 @@ Leetcode Solutions are here......
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
