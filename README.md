@@ -78,6 +78,7 @@ Leetcode Solutions are here......
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3639-zero-array-transformation-i) |
@@ -452,6 +453,7 @@ Leetcode Solutions are here......
 | [0073-set-matrix-zeroes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0079-word-search) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Simulation
 |  |
