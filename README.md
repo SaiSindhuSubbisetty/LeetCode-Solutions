@@ -88,6 +88,7 @@ Leetcode Solutions are here......
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -291,6 +292,7 @@ Leetcode Solutions are here......
 | [3618-find-the-original-typed-string-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Trie
 |  |
 | ------- |
@@ -468,6 +470,7 @@ Leetcode Solutions are here......
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Simulation
 |  |
 | ------- |
@@ -555,6 +558,7 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Probability and Statistics
 |  |
 | ------- |
