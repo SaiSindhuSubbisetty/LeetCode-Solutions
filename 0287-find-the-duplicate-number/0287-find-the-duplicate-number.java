@@ -1,21 +1,24 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-        //Floyd’s Cycle Detection (Tortoise and Hare)
-        int slow = nums[0];
-        int fast = nums[0];
-    
-        do{
-            slow = nums[slow];
-            fast = nums[nums[fast]];
-        }while(slow!=fast);
-
-        slow = nums[0];
-        while(slow != fast)
-        {
-            slow = nums[slow];
-            fast = nums[fast];
+        int i = 0;
+        while (i < nums.length) {
+            int correct = nums[i] - 1;
+            
+            if (nums[i] != nums[correct]) {
+                swap(nums, i, correct);
+            } else {
+                if (i != correct) {   // nums[i] already at correct place, but duplicate found
+                    return nums[i];
+                }
+                i++;
+            }
         }
-        return slow;
-        
+        return -1; // should never reach here, as problem guarantees a duplicate
+    }
+
+    private void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
     }
 }
