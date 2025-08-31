@@ -12,6 +12,7 @@ Leetcode Solutions are here......
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0049-group-anagrams) |
@@ -104,6 +105,7 @@ Leetcode Solutions are here......
 | [0012-integer-to-roman](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -316,6 +318,7 @@ Leetcode Solutions are here......
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0079-word-search) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -482,6 +485,7 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0079-word-search) |
