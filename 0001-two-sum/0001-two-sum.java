@@ -6,15 +6,19 @@ class Solution {
         HashMap<Integer,Integer> hmap = new HashMap<>();
         for(int i=0;i<nums.length;i++)
         {
-            int compliment = target - nums[i];
-            if(hmap.containsKey(compliment))
+            int complement = target-nums[i];
+            if(hmap.containsKey(complement))
             {
-                return new int[]{hmap.get(compliment),i};
+                return new int [] {hmap.get(complement),i};
             }
             hmap.put(nums[i],i);
         }
-        return new int[]{};
+        return new int []{-1,-1};
 
        
     }
 }
+
+//TC:0(n)
+//SC:0(n)
+//HashMap
