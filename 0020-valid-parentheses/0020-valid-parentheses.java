@@ -3,19 +3,20 @@ import java.util.*;
 class Solution {
     public boolean isValid(String s) {
         Stack<Character> st = new Stack<>();
-        for(Character c: s.toCharArray())
+        for(Character c : s.toCharArray())
         {
-            if(c == '(' || c == '{' || c == '['){
+            if(c == '(' || c=='{' || c=='['){
                 st.push(c);
             }
             else{
                 if(st.isEmpty()) return false;
                 char top = st.pop();
-                if((top == '(' && c != ')') ||
-                    (top == '{' && c != '}') ||
-                    (top == '[' && c != ']')
+                if((top == '(' && c != ')') || 
+                   (top == '{' && c != '}') ||
+                   (top == '[' && c != ']')
                 ){
                     return false;
+
                 }
             }
         }
