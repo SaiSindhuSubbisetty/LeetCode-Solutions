@@ -62,6 +62,7 @@ Leetcode Solutions are here......
 | [1628-count-submatrices-with-all-ones](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -143,6 +144,7 @@ Leetcode Solutions are here......
 | [1500-count-largest-group](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -462,6 +464,7 @@ Leetcode Solutions are here......
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
