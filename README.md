@@ -232,6 +232,7 @@ Leetcode Solutions are here......
 | [0151-reverse-words-in-a-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
@@ -401,6 +402,7 @@ Leetcode Solutions are here......
 | [0234-palindrome-linked-list](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0868-push-dominoes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
