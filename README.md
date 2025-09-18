@@ -160,6 +160,7 @@ Leetcode Solutions are here......
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3678-design-task-manager](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -534,6 +535,7 @@ Leetcode Solutions are here......
 | [2479-meeting-rooms-iii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3678-design-task-manager](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -639,6 +641,7 @@ Leetcode Solutions are here......
 | [0146-lru-cache](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -679,6 +682,7 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 ## Game Theory
 |  |
 | ------- |
