@@ -68,6 +68,7 @@ Leetcode Solutions are here......
 | [1917-maximum-average-pass-ratio](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -150,6 +151,7 @@ Leetcode Solutions are here......
 | [1813-maximum-erasure-value](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2429-design-a-food-rating-system](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
@@ -538,6 +540,7 @@ Leetcode Solutions are here......
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1622-max-value-of-equation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1622-max-value-of-equation) |
 | [1917-maximum-average-pass-ratio](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2429-design-a-food-rating-system](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
@@ -649,6 +652,7 @@ Leetcode Solutions are here......
 | ------- |
 | [0146-lru-cache](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3827-implement-router) |
@@ -691,6 +695,7 @@ Leetcode Solutions are here......
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3827-implement-router) |
