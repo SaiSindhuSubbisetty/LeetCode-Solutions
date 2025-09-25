@@ -27,6 +27,7 @@ Leetcode Solutions are here......
 | [0078-subsets](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0135-candy) |
@@ -341,6 +342,7 @@ Leetcode Solutions are here......
 | [0005-longest-palindromic-substring](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0120-triangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0867-new-21-game](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0867-new-21-game) |
