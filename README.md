@@ -53,6 +53,7 @@ Leetcode Solutions are here......
 | [0645-set-mismatch](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0797-rabbits-in-forest](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1018-largest-perimeter-triangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -299,6 +300,7 @@ Leetcode Solutions are here......
 | [0342-power-of-four](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0867-new-21-game](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0867-new-21-game) |
+| [1018-largest-perimeter-triangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -481,6 +483,7 @@ Leetcode Solutions are here......
 | [0611-valid-triangle-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0778-reorganize-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0778-reorganize-string) |
+| [1018-largest-perimeter-triangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -505,6 +508,7 @@ Leetcode Solutions are here......
 | [0611-valid-triangle-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0778-reorganize-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
