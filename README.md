@@ -51,6 +51,7 @@ Leetcode Solutions are here......
 | [0594-longest-harmonious-subsequence](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0794-swim-in-rising-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -223,6 +224,7 @@ Leetcode Solutions are here......
 | [0386-lexicographical-numbers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0794-swim-in-rising-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -462,6 +464,7 @@ Leetcode Solutions are here......
 | [0287-find-the-duplicate-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -565,6 +568,7 @@ Leetcode Solutions are here......
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0778-reorganize-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0778-reorganize-string) |
+| [0794-swim-in-rising-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1622-max-value-of-equation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1622-max-value-of-equation) |
 | [1917-maximum-average-pass-ratio](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -590,6 +594,7 @@ Leetcode Solutions are here......
 | [0073-set-matrix-zeroes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0498-diagonal-traverse](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -649,11 +654,13 @@ Leetcode Solutions are here......
 | [0102-binary-tree-level-order-traversal](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0207-course-schedule](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0794-swim-in-rising-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0794-swim-in-rising-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Stack
 |  |
