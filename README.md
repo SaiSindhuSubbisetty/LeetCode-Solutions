@@ -124,6 +124,7 @@ Leetcode Solutions are here......
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
@@ -560,6 +561,7 @@ Leetcode Solutions are here......
 | [3618-find-the-original-typed-string-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Number Theory
 |  |
 | ------- |
@@ -622,6 +624,7 @@ Leetcode Solutions are here......
 | [2479-meeting-rooms-iii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2886-faulty-keyboard](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2886-faulty-keyboard) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
