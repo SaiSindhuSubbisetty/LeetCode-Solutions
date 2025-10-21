@@ -121,6 +121,7 @@ Leetcode Solutions are here......
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -209,6 +210,7 @@ Leetcode Solutions are here......
 | [2626-count-the-number-of-good-subarrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Tree
 |  |
@@ -489,6 +491,7 @@ Leetcode Solutions are here......
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3827-implement-router](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## Sorting
 |  |
@@ -526,6 +529,7 @@ Leetcode Solutions are here......
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Greedy
 |  |
@@ -572,6 +576,7 @@ Leetcode Solutions are here......
 | [2915-count-of-interesting-subarrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
