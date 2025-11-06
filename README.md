@@ -134,6 +134,7 @@ Leetcode Solutions are here......
 | [3748-sort-matrix-by-diagonals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -195,6 +196,7 @@ Leetcode Solutions are here......
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3827-implement-router](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -244,6 +246,7 @@ Leetcode Solutions are here......
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3863-power-grid-maintenance](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -622,6 +625,7 @@ Leetcode Solutions are here......
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3678-design-task-manager](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -690,6 +694,7 @@ Leetcode Solutions are here......
 | [0207-course-schedule](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3863-power-grid-maintenance](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
@@ -703,12 +708,14 @@ Leetcode Solutions are here......
 | [0226-invert-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3863-power-grid-maintenance](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0794-swim-in-rising-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [3863-power-grid-maintenance](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Stack
 |  |
 | ------- |
@@ -785,6 +792,7 @@ Leetcode Solutions are here......
 | [2429-design-a-food-rating-system](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Game Theory
 |  |
 | ------- |
