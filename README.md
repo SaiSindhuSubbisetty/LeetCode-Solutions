@@ -123,6 +123,7 @@ Leetcode Solutions are here......
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -219,6 +220,7 @@ Leetcode Solutions are here......
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Tree
@@ -402,6 +404,7 @@ Leetcode Solutions are here......
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -601,6 +604,7 @@ Leetcode Solutions are here......
 | [2529-range-product-queries-of-powers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3639-zero-array-transformation-i) |
@@ -617,6 +621,7 @@ Leetcode Solutions are here......
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1622-max-value-of-equation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1622-max-value-of-equation) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3827-implement-router](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
@@ -641,6 +646,7 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [1622-max-value-of-equation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1622-max-value-of-equation) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Matrix
 |  |
 | ------- |
