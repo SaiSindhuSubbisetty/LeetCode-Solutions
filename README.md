@@ -341,6 +341,7 @@ Leetcode Solutions are here......
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1500-count-largest-group) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2288-count-operations-to-obtain-zero](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
