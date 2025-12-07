@@ -1,0 +1,9 @@
+class Solution {
+    public int countOdds(int low, int high) {
+        return oddsUpTo(high) - oddsUpTo(low - 1);
+    }
+    
+    private int oddsUpTo(int x) {
+        return (x + 1) / 2;
+    }
+}
