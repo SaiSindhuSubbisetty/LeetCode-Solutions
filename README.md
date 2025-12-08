@@ -343,6 +343,7 @@ Leetcode Solutions are here......
 | [1500-count-largest-group](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1500-count-largest-group) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1925-count-square-sum-triples](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2288-count-operations-to-obtain-zero](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -459,6 +460,7 @@ Leetcode Solutions are here......
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
