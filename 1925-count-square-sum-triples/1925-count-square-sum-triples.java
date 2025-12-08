@@ -5,12 +5,11 @@ class Solution {
         {
             for(int b=1;b<=n;b++)
             {
-                for(int c=1;c<=n;c++)
+                int c2 = a*a + b*b;
+                int c = (int)Math.sqrt(c2);
+                if(c <= n && c*c == c2)
                 {
-                    if(a*a + b*b == c*c)
-                    {
-                        count++;
-                    }
+                   count++;
                 }
             }
         }
