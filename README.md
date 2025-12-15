@@ -24,6 +24,7 @@ Leetcode Solutions are here......
 | [0054-spiral-matrix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -514,6 +515,7 @@ Leetcode Solutions are here......
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -671,6 +673,7 @@ Leetcode Solutions are here......
 | [0048-rotate-image](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0498-diagonal-traverse](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
