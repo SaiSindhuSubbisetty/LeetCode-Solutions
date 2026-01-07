@@ -260,6 +260,7 @@ Leetcode Solutions are here......
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -278,6 +279,7 @@ Leetcode Solutions are here......
 | [0543-diameter-of-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -294,6 +296,7 @@ Leetcode Solutions are here......
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## String
 |  |
 | ------- |
