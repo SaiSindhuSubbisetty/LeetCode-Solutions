@@ -28,6 +28,7 @@ Leetcode Solutions are here......
 | [0074-search-a-2d-matrix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -437,6 +438,7 @@ Leetcode Solutions are here......
 | [0005-longest-palindromic-substring](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
@@ -739,6 +741,7 @@ Leetcode Solutions are here......
 | [0073-set-matrix-zeroes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
@@ -834,6 +837,7 @@ Leetcode Solutions are here......
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -890,6 +894,7 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Geometry
