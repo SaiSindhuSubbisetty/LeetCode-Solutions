@@ -328,6 +328,7 @@ Leetcode Solutions are here......
 | [0424-longest-repeating-character-replacement](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0567-permutation-in-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0778-reorganize-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0800-letter-case-permutation) |
 | [0868-push-dominoes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0868-push-dominoes) |
@@ -442,6 +443,7 @@ Leetcode Solutions are here......
 | [0120-triangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0867-new-21-game](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
