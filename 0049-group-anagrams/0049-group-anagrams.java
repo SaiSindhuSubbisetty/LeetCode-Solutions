@@ -1,38 +1,34 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        if(strs == null || strs.length == 0){
+        if (strs.length == 0) {
             return new ArrayList<>();
         }
-        Map<String, List<String>> frequencyStringMap = new HashMap<>();
 
-        for(String str : strs){
-            String frequencyString = getFrequencyString(str);
-            if(frequencyStringMap.containsKey(frequencyString)){
-                frequencyStringMap.get(frequencyString).add(str);
+        HashMap<String, List<String>> ansMap = new HashMap<>();
+        int[] count = new int[26];
+
+        for (String s : strs) {
+            Arrays.fill(count, 0);
+
+            for (char c : s.toCharArray()) {
+                count[c - 'a']++;
             }
-            else{
-                List<String> strlist = new ArrayList<>();
-                strlist.add(str);
-                frequencyStringMap.put(frequencyString, strlist);
+
+            StringBuilder sb = new StringBuilder();
+            for (int i = 0; i < 26; i++) {
+                sb.append("#");
+                sb.append(count[i]);
             }
-        }
-        return new ArrayList<>(frequencyStringMap.values());
-    }
-    private String getFrequencyString(String str){
-        int[] freq = new int[26];
 
-        for(char c : str.toCharArray()){
-            freq[c-'a']++;
+            String key = sb.toString();
+
+            if (!ansMap.containsKey(key)) {
+                ansMap.put(key, new ArrayList<>());
+            }
+
+            ansMap.get(key).add(s);
         }
 
-        StringBuilder frequencyString = new StringBuilder("");
-        char c = 'a';
-        for(int i : freq)
-        {
-            frequencyString.append(c);
-            frequencyString.append(i);
-            c++;
-        }
-        return frequencyString.toString();
+        return new ArrayList<>(ansMap.values());
     }
 }
