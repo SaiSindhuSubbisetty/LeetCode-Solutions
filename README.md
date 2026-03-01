@@ -361,6 +361,7 @@ Leetcode Solutions are here......
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -682,6 +683,7 @@ Leetcode Solutions are here......
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
