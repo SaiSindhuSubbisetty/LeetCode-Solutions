@@ -525,6 +525,7 @@ Leetcode Solutions are here......
 | [0342-power-of-four](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0800-letter-case-permutation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0800-letter-case-permutation) |
+| [1009-complement-of-base-10-integer](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
