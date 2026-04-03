@@ -162,6 +162,7 @@ Leetcode Solutions are here......
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3639-zero-array-transformation-i) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -501,6 +502,7 @@ Leetcode Solutions are here......
 | [3618-find-the-original-typed-string-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Trie
 |  |
@@ -624,6 +626,7 @@ Leetcode Solutions are here......
 | [3453-separate-squares-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3827-implement-router](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## Sorting
 |  |
@@ -672,6 +675,7 @@ Leetcode Solutions are here......
 | [3531-count-covered-buildings](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Greedy
 |  |
