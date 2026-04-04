@@ -367,6 +367,7 @@ Leetcode Solutions are here......
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -816,6 +817,7 @@ Leetcode Solutions are here......
 | [0054-spiral-matrix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
