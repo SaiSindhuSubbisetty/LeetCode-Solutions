@@ -60,6 +60,7 @@ Leetcode Solutions are here......
 | [0794-swim-in-rising-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -210,6 +211,7 @@ Leetcode Solutions are here......
 | [0797-rabbits-in-forest](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -816,6 +818,7 @@ Leetcode Solutions are here......
 | ------- |
 | [0054-spiral-matrix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
+| [0874-walking-robot-simulation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [2048-build-array-from-permutation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
