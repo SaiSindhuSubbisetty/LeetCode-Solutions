@@ -1,21 +1,23 @@
-
-//Two Pointers Appraoch
-import java.util.*;
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        Set<Character> set = new HashSet<>();
-        int maxLength = 0;
+        HashSet<Character> set = new HashSet<>();
         int left = 0;
-        for(int right=0;right<s.length();right++)
+        int right = 0;
+        int ans = 0;
+        while(right < s.length())
         {
-            while(set.contains(s.charAt(right)))
+            char c = s.charAt(right);
+            while(set.contains(c))
             {
                 set.remove(s.charAt(left));
                 left++;
             }
-            set.add(s.charAt(right));
-            maxLength = Math.max(maxLength,right-left+1);
+            set.add(c);
+            ans = Math.max(ans,right-left+1);
+            right++;
+
         }
-        return maxLength;
+        return ans;
+        
     }
 }
