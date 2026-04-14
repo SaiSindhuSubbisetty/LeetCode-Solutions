@@ -34,6 +34,7 @@ Leetcode Solutions are here......
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -417,6 +418,7 @@ Leetcode Solutions are here......
 | [0013-roman-to-integer](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -921,6 +923,7 @@ Leetcode Solutions are here......
 | [0042-trapping-rain-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
