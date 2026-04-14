@@ -921,6 +921,7 @@ Leetcode Solutions are here......
 | [0042-trapping-rain-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -948,6 +949,7 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2069-walking-robot-simulation-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2069-walking-robot-simulation-ii) |
