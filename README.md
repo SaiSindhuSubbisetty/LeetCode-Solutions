@@ -351,6 +351,7 @@ Leetcode Solutions are here......
 | [0013-roman-to-integer](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
@@ -482,6 +483,7 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -532,6 +534,7 @@ Leetcode Solutions are here......
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0078-subsets) |
