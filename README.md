@@ -403,6 +403,7 @@ Leetcode Solutions are here......
 | [2483-minimum-penalty-for-a-shop](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2833-furthest-point-from-origin](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2886-faulty-keyboard](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -903,6 +904,7 @@ Leetcode Solutions are here......
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2833-furthest-point-from-origin](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
