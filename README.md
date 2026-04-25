@@ -161,6 +161,7 @@ Leetcode Solutions are here......
 | [3454-separate-squares-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -471,6 +472,7 @@ Leetcode Solutions are here......
 | [3279-alice-and-bob-playing-flower-game](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -664,6 +666,7 @@ Leetcode Solutions are here......
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3453-separate-squares-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -714,6 +717,7 @@ Leetcode Solutions are here......
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3531-count-covered-buildings](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1032,6 +1036,7 @@ Leetcode Solutions are here......
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Brainteaser
 |  |
 | ------- |
