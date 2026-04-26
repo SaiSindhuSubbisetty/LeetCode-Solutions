@@ -85,6 +85,7 @@ Leetcode Solutions are here......
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -335,6 +336,7 @@ Leetcode Solutions are here......
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -850,6 +852,7 @@ Leetcode Solutions are here......
 | [0840-magic-squares-in-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -938,6 +941,7 @@ Leetcode Solutions are here......
 | [0794-swim-in-rising-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3863-power-grid-maintenance](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
@@ -1079,4 +1083,5 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
