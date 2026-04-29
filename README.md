@@ -155,6 +155,7 @@ Leetcode Solutions are here......
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3225-maximum-score-from-grid-operations](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -543,6 +544,7 @@ Leetcode Solutions are here......
 | [2463-minimum-total-distance-traveled](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3225-maximum-score-from-grid-operations](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -794,6 +796,7 @@ Leetcode Solutions are here......
 | [2529-range-product-queries-of-powers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2615-sum-of-distances](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [2915-count-of-interesting-subarrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3225-maximum-score-from-grid-operations](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
@@ -874,6 +877,7 @@ Leetcode Solutions are here......
 | [1975-maximum-matrix-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3225-maximum-score-from-grid-operations](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
