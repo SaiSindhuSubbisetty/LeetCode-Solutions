@@ -193,6 +193,7 @@ Leetcode Solutions are here......
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -557,6 +558,7 @@ Leetcode Solutions are here......
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -885,6 +887,7 @@ Leetcode Solutions are here......
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
 |  |
