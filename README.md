@@ -52,6 +52,7 @@ Leetcode Solutions are here......
 | [0283-move-zeroes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
@@ -456,6 +457,7 @@ Leetcode Solutions are here......
 | [0273-integer-to-english-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0797-rabbits-in-forest](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0867-new-21-game) |
@@ -523,6 +525,7 @@ Leetcode Solutions are here......
 | [0085-maximal-rectangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0396-rotate-function](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0867-new-21-game](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0867-new-21-game) |
