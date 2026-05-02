@@ -458,6 +458,7 @@ Leetcode Solutions are here......
 | [0326-power-of-three](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0867-new-21-game) |
@@ -528,6 +529,7 @@ Leetcode Solutions are here......
 | [0396-rotate-function](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0867-new-21-game](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
