@@ -1,24 +1,19 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-        int i = 0;
-        while (i < nums.length) {
-            int correct = nums[i] - 1;
-            
-            if (nums[i] != nums[correct]) {
-                swap(nums, i, correct);
-            } else {
-                if (i != correct) {   // nums[i] already at correct place, but duplicate found
-                    return nums[i];
-                }
-                i++;
-            }
+        int slow = nums[0];
+        int fast = nums[nums[0]];
+        while(slow != fast)
+        {
+            slow = nums[slow];
+            fast = nums[nums[fast]];
         }
-        return -1; // should never reach here, as problem guarantees a duplicate
-    }
-
-    private void swap(int[] nums, int i, int j) {
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
+        slow = 0;
+        while(slow != fast)
+        {
+            slow = nums[slow];
+            fast = nums[fast];
+        }
+        return slow;
+        
     }
 }
