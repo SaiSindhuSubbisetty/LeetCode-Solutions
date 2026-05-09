@@ -103,6 +103,7 @@ Leetcode Solutions are here......
 | [1834-minimum-number-of-people-to-teach](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1914-cyclically-rotating-a-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
@@ -895,6 +896,7 @@ Leetcode Solutions are here......
 | [1559-detect-cycles-in-2d-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1791-richest-customer-wealth) |
+| [1914-cyclically-rotating-a-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -913,6 +915,7 @@ Leetcode Solutions are here......
 | [0054-spiral-matrix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0874-walking-robot-simulation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2048-build-array-from-permutation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2069-walking-robot-simulation-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
