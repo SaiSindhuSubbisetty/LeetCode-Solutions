@@ -146,6 +146,7 @@ Leetcode Solutions are here......
 | [2699-count-the-number-of-fair-pairs](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2751-robot-collisions](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2751-robot-collisions) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -558,6 +559,7 @@ Leetcode Solutions are here......
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2463-minimum-total-distance-traveled](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
