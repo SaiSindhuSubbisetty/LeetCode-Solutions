@@ -98,6 +98,7 @@ Leetcode Solutions are here......
 | [1622-max-value-of-equation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1622-max-value-of-equation) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1791-richest-customer-wealth](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
@@ -254,6 +255,7 @@ Leetcode Solutions are here......
 | [1500-count-largest-group](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -826,6 +828,7 @@ Leetcode Solutions are here......
 | [1016-subarray-sums-divisible-by-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2249-count-the-hidden-sequences](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
