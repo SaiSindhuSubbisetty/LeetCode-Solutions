@@ -335,6 +335,7 @@ Leetcode Solutions are here......
 | [0226-invert-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -358,6 +359,7 @@ Leetcode Solutions are here......
 | [0386-lexicographical-numbers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0794-swim-in-rising-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -383,6 +385,7 @@ Leetcode Solutions are here......
 | [0226-invert-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1167,9 +1170,14 @@ Leetcode Solutions are here......
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0796-rotate-string) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
