@@ -346,6 +346,7 @@ Leetcode Solutions are here......
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -374,6 +375,7 @@ Leetcode Solutions are here......
 | [1306-jump-game-iii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -399,6 +401,7 @@ Leetcode Solutions are here......
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -1029,6 +1032,7 @@ Leetcode Solutions are here......
 | [1306-jump-game-iii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
