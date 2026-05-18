@@ -84,6 +84,7 @@ Leetcode Solutions are here......
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1306-jump-game-iii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1390-four-divisors) |
@@ -254,6 +255,7 @@ Leetcode Solutions are here......
 | [0981-time-based-key-value-store](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1345-jump-game-iv](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1500-count-largest-group](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -1025,6 +1027,7 @@ Leetcode Solutions are here......
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
