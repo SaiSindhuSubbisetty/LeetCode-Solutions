@@ -348,6 +348,7 @@ Leetcode Solutions are here......
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -374,6 +375,7 @@ Leetcode Solutions are here......
 | [0104-maximum-depth-of-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -409,6 +411,7 @@ Leetcode Solutions are here......
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -582,6 +585,7 @@ Leetcode Solutions are here......
 | [0085-maximal-rectangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0396-rotate-function](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
