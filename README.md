@@ -353,6 +353,7 @@ Leetcode Solutions are here......
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -381,6 +382,7 @@ Leetcode Solutions are here......
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -416,6 +418,7 @@ Leetcode Solutions are here......
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -444,6 +447,7 @@ Leetcode Solutions are here......
 | [0166-fraction-to-recurring-decimal](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -1053,6 +1057,7 @@ Leetcode Solutions are here......
 | [0111-minimum-depth-of-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1119,6 +1124,7 @@ Leetcode Solutions are here......
 | ------- |
 | [0146-lru-cache](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0981-time-based-key-value-store](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
