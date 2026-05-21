@@ -162,6 +162,7 @@ Leetcode Solutions are here......
 | [2915-count-of-interesting-subarrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -286,6 +287,7 @@ Leetcode Solutions are here......
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -482,6 +484,7 @@ Leetcode Solutions are here......
 | [2833-furthest-point-from-origin](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2886-faulty-keyboard](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
@@ -640,6 +643,7 @@ Leetcode Solutions are here......
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
 |  |
 | ------- |
