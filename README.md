@@ -332,6 +332,7 @@ Leetcode Solutions are here......
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1622-max-value-of-equation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1622-max-value-of-equation) |
 | [1813-maximum-erasure-value](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
+| [1871-jump-game-vii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -476,6 +477,7 @@ Leetcode Solutions are here......
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1871-jump-game-vii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -615,6 +617,7 @@ Leetcode Solutions are here......
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1871-jump-game-vii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2054-two-best-non-overlapping-events](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -889,6 +892,7 @@ Leetcode Solutions are here......
 | [1046-max-consecutive-ones-iii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [2249-count-the-hidden-sequences](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
