@@ -63,6 +63,7 @@ Leetcode Solutions are here......
 | [0560-subarray-sum-equals-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -258,6 +259,7 @@ Leetcode Solutions are here......
 | [0560-subarray-sum-equals-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0778-reorganize-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
@@ -817,6 +819,7 @@ Leetcode Solutions are here......
 | [0532-k-diff-pairs-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0778-reorganize-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [0853-car-fleet](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0853-car-fleet) |
@@ -863,6 +866,7 @@ Leetcode Solutions are here......
 | [0011-container-with-most-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -948,6 +952,7 @@ Leetcode Solutions are here......
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-reorganize-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
@@ -1058,6 +1063,7 @@ Leetcode Solutions are here......
 | [0347-top-k-frequent-elements](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
