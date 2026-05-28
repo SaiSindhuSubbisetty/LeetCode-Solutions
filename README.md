@@ -170,6 +170,7 @@ Leetcode Solutions are here......
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3093-longest-common-suffix-queries](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -499,6 +500,7 @@ Leetcode Solutions are here......
 | [2886-faulty-keyboard](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -665,6 +667,7 @@ Leetcode Solutions are here......
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 ## Backtracking
 |  |
 | ------- |
