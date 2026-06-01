@@ -759,6 +759,7 @@ Leetcode Solutions are here......
 | [0234-palindrome-linked-list](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -825,6 +826,7 @@ Leetcode Solutions are here......
 | [0217-contains-duplicate](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -965,6 +967,7 @@ Leetcode Solutions are here......
 | [0023-merge-k-sorted-lists](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0621-task-scheduler) |
@@ -1185,6 +1188,7 @@ Leetcode Solutions are here......
 | [0155-min-stack](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -1307,6 +1311,7 @@ Leetcode Solutions are here......
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Indexed Tree
 |  |
