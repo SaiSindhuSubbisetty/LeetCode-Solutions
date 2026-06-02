@@ -209,6 +209,7 @@ Leetcode Solutions are here......
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3639-zero-array-transformation-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -772,6 +773,7 @@ Leetcode Solutions are here......
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -811,6 +813,7 @@ Leetcode Solutions are here......
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3827-implement-router](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## Sorting
@@ -872,6 +875,7 @@ Leetcode Solutions are here......
 | [3531-count-covered-buildings](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Greedy
@@ -917,6 +921,7 @@ Leetcode Solutions are here......
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Prefix Sum
 |  |
