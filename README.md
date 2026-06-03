@@ -18,6 +18,7 @@ Leetcode Solutions are here......
 | [0036-valid-sudoku](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0046-permutations) |
@@ -687,6 +688,7 @@ Leetcode Solutions are here......
 | [0022-generate-parentheses](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0079-word-search) |
