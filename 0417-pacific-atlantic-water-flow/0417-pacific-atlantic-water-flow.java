@@ -50,10 +50,11 @@ class Solution {
             {
                 continue;
             }
-            if(heights[newRow][newCol] >= heights[row][col])
+            if(heights[newRow][newCol] < heights[row][col])
             {
-                dfs(newRow,newCol,reachable,heights);
+               continue;
             }
+            dfs(newRow,newCol,reachable,heights);
         }
     }
 }
