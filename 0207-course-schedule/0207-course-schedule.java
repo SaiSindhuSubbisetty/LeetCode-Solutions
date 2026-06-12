@@ -1,41 +1,52 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        int[] indegree = new int[numCourses];
-        List<List<Integer>> graph = new ArrayList<>();
-        for(int i=0;i<numCourses;i++)
-        {
-            graph.add(new ArrayList<>());
-        }
-
+        HashMap<Integer,List<Integer>> courseGraph = new HashMap<>();
         for(int[] pre : prerequisites)
         {
-            graph.get(pre[1]).add(pre[0]);
-            indegree[pre[0]]++;
-
-        }
-
-        Queue<Integer> queue = new LinkedList<>();
-        for(int i=0;i<numCourses;i++)
-        {
-            if(indegree[i] == 0)
+            if(courseGraph.containsKey(pre[1]))
             {
-                queue.add(i);
+                courseGraph.get(pre[1]).add(pre[0]);
+            }
+            else
+            {
+                List<Integer> nextCourse = new LinkedList<>();
+                nextCourse.add(pre[0]);
+                courseGraph.put(pre[1],nextCourse);
             }
         }
-        int count = 0;
-        while(!queue.isEmpty())
+        HashSet<Integer> visited = new HashSet<>();
+        for(int currentCourse = 0;currentCourse<numCourses;currentCourse++)
         {
-            int course = queue.poll();
-            count++;
-            for(int next : graph.get(course)){
-                indegree[next]--;
-                if(indegree[next] == 0)
-                {
-                    queue.add(next);
-                }
+            if(courseShedule(currentCourse,visited,courseGraph) == false)
+            {
+                return false;
+            }
+
+        }
+        return true;
+        
+    }
+    public boolean courseShedule(int course,HashSet<Integer> visited, HashMap<Integer,List<Integer>> courseGraph)
+    {
+        if(visited.contains(course))
+        {
+            return false;
+        }
+        if(courseGraph.get(course) == null)
+        {
+            return true;
+        }
+        visited.add(course);
+        for(int pre:courseGraph.get(course))
+        {
+            if(courseShedule(pre,visited,courseGraph) == false)
+            {
+
+                   return false;
             }
         }
-        return count == numCourses;
-        
+        visited.remove(course);
+        courseGraph.put(course,null);
+        return true;
     }
 }
