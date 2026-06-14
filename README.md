@@ -819,6 +819,7 @@ Leetcode Solutions are here......
 | [0868-push-dominoes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [0953-reverse-only-letters](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0953-reverse-only-letters) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1234,6 +1235,7 @@ Leetcode Solutions are here......
 | [1628-count-submatrices-with-all-ones](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2751-robot-collisions](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2751-robot-collisions) |
@@ -1256,6 +1258,7 @@ Leetcode Solutions are here......
 | [0234-palindrome-linked-list](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
