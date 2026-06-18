@@ -600,6 +600,7 @@ Leetcode Solutions are here......
 | [0867-new-21-game](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0973-k-closest-points-to-origin](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
