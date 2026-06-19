@@ -753,6 +753,7 @@ Leetcode Solutions are here......
 | ------- |
 | [0078-subsets](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -1154,6 +1155,7 @@ Leetcode Solutions are here......
 | [0053-maximum-subarray](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
