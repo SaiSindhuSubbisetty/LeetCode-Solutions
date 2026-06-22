@@ -677,6 +677,7 @@ Leetcode Solutions are here......
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0338-counting-bits](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0472-concatenated-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -761,6 +762,7 @@ Leetcode Solutions are here......
 | [0191-number-of-1-bits](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0645-set-mismatch) |
