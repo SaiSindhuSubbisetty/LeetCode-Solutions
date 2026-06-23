@@ -134,6 +134,7 @@ Leetcode Solutions are here......
 | [1975-maximum-matrix-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2013-detect-squares](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2013-detect-squares) |
 | [2023-design-movie-rental-system](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2048-build-array-from-permutation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
@@ -310,6 +311,7 @@ Leetcode Solutions are here......
 | [1813-maximum-erasure-value](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2013-detect-squares](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2013-detect-squares) |
 | [2023-design-movie-rental-system](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1192,6 +1194,7 @@ Leetcode Solutions are here......
 | [1189-maximum-number-of-balloons](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2013-detect-squares](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2013-detect-squares) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -1316,6 +1319,7 @@ Leetcode Solutions are here......
 | [0703-kth-largest-element-in-a-stream](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2013-detect-squares](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2013-detect-squares) |
 | [2023-design-movie-rental-system](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2069-walking-robot-simulation-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2429-design-a-food-rating-system](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
@@ -1442,6 +1446,7 @@ Leetcode Solutions are here......
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2013-detect-squares](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2013-detect-squares) |
 ## Binary Indexed Tree
 |  |
 | ------- |
