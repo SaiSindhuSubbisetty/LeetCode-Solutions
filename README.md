@@ -132,6 +132,7 @@ Leetcode Solutions are here......
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -547,6 +548,7 @@ Leetcode Solutions are here......
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-jump-game-vii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
