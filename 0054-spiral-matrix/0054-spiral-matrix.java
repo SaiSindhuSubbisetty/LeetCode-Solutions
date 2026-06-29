@@ -1,44 +1,34 @@
-class Solution{
-    public List<Integer> spiralOrder(int[][] matrix){
-        List<Integer> result = new ArrayList<>();
-        int top = 0;
-        int bottom = matrix.length-1;
-        int left = 0;
-        int right = matrix[0].length-1;
-        while(top<=bottom && left <= right)
+class Solution {
+    public List<Integer> spiralOrder(int[][] matrix) {
+        int visited = 101;
+        int rows = matrix.length;
+        int cols = matrix[0].length;
+        int row = 0, col = 0;
+        int[][] directions = {{0,1},{1,0},{0,-1},{-1,0}};
+        int currentdirection = 0,changedirection = 0;
+        List<Integer> ans = new ArrayList<>();
+        ans.add(matrix[0][0]);
+        matrix[0][0] = visited;
+        while(changedirection < 2)
         {
-            //top to left - printing top row
-            for(int i=left;i<=right;i++)
-            {
-                result.add(matrix[top][i]);
-            }
-            top++;
-            //right to bottom - downside
-            for(int i=top;i<=bottom;i++)
-            {
-                result.add(matrix[i][right]);
-            }
-            right--;
-            //bottom to left side down row decrement
-            if(top <= bottom)
-            {
-                for(int i=right;i>=left;i--)
+            while(row+directions[currentdirection][0] >= 0 &&
+                  row+directions[currentdirection][0] < rows &&
+                  col+directions[currentdirection][1] >= 0 &&
+                  col+directions[currentdirection][1] < cols &&
+                  matrix[row+directions[currentdirection][0]][col+directions[currentdirection][1]] != visited)
                 {
-                    result.add(matrix[bottom][i]);
-                }
-                bottom--;
+                    changedirection = 0;
+                    row = row+directions[currentdirection][0];
+                    col = col+directions[currentdirection][1];
+                    ans.add(matrix[row][col]);
+                    matrix[row][col] = visited;
 
-            }
-            if(left <= right)
-            {
-                for(int i=bottom;i>=top;i--)
-                {
-                    result.add(matrix[i][left]);
                 }
-                left++;
-            }
+                currentdirection = (currentdirection+1)%4;
+                changedirection++;
         }
-        return result;
+        return ans;
 
+        
     }
 }
