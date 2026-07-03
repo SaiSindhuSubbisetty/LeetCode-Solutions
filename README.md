@@ -227,6 +227,7 @@ Leetcode Solutions are here......
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3606-coupon-code-validator](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3620-network-recovery-pathways](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -730,6 +731,7 @@ Leetcode Solutions are here......
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3620-network-recovery-pathways](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3660-jump-game-ix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3660-jump-game-ix) |
@@ -904,6 +906,7 @@ Leetcode Solutions are here......
 | [3454-separate-squares-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
+| [3620-network-recovery-pathways](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -1104,6 +1107,7 @@ Leetcode Solutions are here......
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3620-network-recovery-pathways](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3678-design-task-manager](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -1238,6 +1242,7 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [3620-network-recovery-pathways](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Breadth-First Search
 |  |
@@ -1367,6 +1372,7 @@ Leetcode Solutions are here......
 | ------- |
 | [0207-course-schedule](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [3620-network-recovery-pathways](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Quickselect
 |  |
 | ------- |
@@ -1482,6 +1488,7 @@ Leetcode Solutions are here......
 | [0332-reconstruct-itinerary](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [3620-network-recovery-pathways](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Eulerian Circuit
 |  |
 | ------- |
