@@ -587,6 +587,7 @@ Leetcode Solutions are here......
 | [3714-longest-balanced-substring-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -662,6 +663,7 @@ Leetcode Solutions are here......
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -1058,6 +1060,7 @@ Leetcode Solutions are here......
 | [3714-longest-balanced-substring-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Number Theory
