@@ -223,6 +223,7 @@ Leetcode Solutions are here......
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3531-count-covered-buildings](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -653,6 +654,7 @@ Leetcode Solutions are here......
 | [3321-type-of-triangle](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -804,6 +806,7 @@ Leetcode Solutions are here......
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
