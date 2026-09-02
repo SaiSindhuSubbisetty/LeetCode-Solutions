@@ -262,6 +262,7 @@ Leetcode Solutions are here......
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-weighted-word-mapping](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3863-power-grid-maintenance](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -680,6 +681,7 @@ Leetcode Solutions are here......
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3830-find-closest-person) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
