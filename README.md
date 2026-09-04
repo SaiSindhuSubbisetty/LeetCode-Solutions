@@ -263,6 +263,7 @@ Leetcode Solutions are here......
 | [3838-weighted-word-mapping](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3863-power-grid-maintenance](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1084,6 +1085,7 @@ Leetcode Solutions are here......
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3903-smallest-stable-index-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Number Theory
 |  |
 | ------- |
