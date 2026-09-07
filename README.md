@@ -547,6 +547,7 @@ Leetcode Solutions are here......
 | [0796-rotate-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0800-letter-case-permutation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0800-letter-case-permutation) |
 | [0868-push-dominoes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0868-push-dominoes) |
+| [0940-distinct-subsequences-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-reverse-only-letters](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0953-reverse-only-letters) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -720,6 +721,7 @@ Leetcode Solutions are here......
 | [0788-rotated-digits](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0867-new-21-game](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0868-push-dominoes) |
+| [0940-distinct-subsequences-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1301-number-of-paths-with-max-score](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
