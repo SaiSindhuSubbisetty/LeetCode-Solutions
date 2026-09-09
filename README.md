@@ -685,6 +685,7 @@ Leetcode Solutions are here......
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3830-find-closest-person) |
+| [3871-count-commas-in-range-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
