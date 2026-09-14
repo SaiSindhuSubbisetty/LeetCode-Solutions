@@ -630,6 +630,7 @@ Leetcode Solutions are here......
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [0836-rectangle-overlap](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0973-k-closest-points-to-origin](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -1437,6 +1438,7 @@ Leetcode Solutions are here......
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
