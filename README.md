@@ -548,6 +548,7 @@ Leetcode Solutions are here......
 | [0778-reorganize-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [0796-rotate-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0800-letter-case-permutation](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0800-letter-case-permutation) |
+| [0856-score-of-parentheses](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [0940-distinct-subsequences-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -1351,6 +1352,7 @@ Leetcode Solutions are here......
 | [0234-palindrome-linked-list](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1550,4 +1552,8 @@ Leetcode Solutions are here......
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
