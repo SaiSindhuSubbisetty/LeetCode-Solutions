@@ -557,6 +557,7 @@ Leetcode Solutions are here......
 | [0953-reverse-only-letters](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0953-reverse-only-letters) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0981-time-based-key-value-store](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
+| [1021-remove-outermost-parentheses](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -1359,6 +1360,7 @@ Leetcode Solutions are here......
 | [0853-car-fleet](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1563,4 +1565,5 @@ Leetcode Solutions are here......
 | ------- |
 | [0856-score-of-parentheses](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
