@@ -564,6 +564,7 @@ Leetcode Solutions are here......
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1041,6 +1042,7 @@ Leetcode Solutions are here......
 | [1448-maximum-69-number](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1612-avoid-flood-in-the-city](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -1362,6 +1364,7 @@ Leetcode Solutions are here......
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1566,4 +1569,5 @@ Leetcode Solutions are here......
 | [0856-score-of-parentheses](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
