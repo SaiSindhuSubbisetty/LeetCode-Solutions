@@ -686,6 +686,7 @@ Leetcode Solutions are here......
 | [3676-smallest-number-with-all-set-bits](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -1077,6 +1078,7 @@ Leetcode Solutions are here......
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Prefix Sum
 |  |
