@@ -191,6 +191,7 @@ Leetcode Solutions are here......
 | [2784-check-if-array-is-good](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-count-of-interesting-subarrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -344,6 +345,7 @@ Leetcode Solutions are here......
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-count-of-interesting-subarrays](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -1496,6 +1498,7 @@ Leetcode Solutions are here......
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3161-block-placement-queries](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -1546,6 +1549,7 @@ Leetcode Solutions are here......
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3161-block-placement-queries](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
 ## Graph Theory
 |  |
