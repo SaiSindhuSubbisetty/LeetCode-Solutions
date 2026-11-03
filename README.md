@@ -254,6 +254,7 @@ Leetcode Solutions are here......
 | [3719-longest-balanced-subarray-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -691,6 +692,7 @@ Leetcode Solutions are here......
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
