@@ -101,6 +101,7 @@ Leetcode Solutions are here......
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1200-minimum-absolute-difference](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1267-count-servers-that-communicate](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1301-number-of-paths-with-max-score](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -480,6 +481,7 @@ Leetcode Solutions are here......
 | [0794-swim-in-rising-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1217,6 +1219,7 @@ Leetcode Solutions are here......
 | [0835-image-overlap](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1298,6 +1301,7 @@ Leetcode Solutions are here......
 | [0778-reorganize-string](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1267-count-servers-that-communicate](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2013-detect-squares](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2013-detect-squares) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1351,6 +1355,7 @@ Leetcode Solutions are here......
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1536,6 +1541,7 @@ Leetcode Solutions are here......
 | [0684-redundant-connection](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
+| [1267-count-servers-that-communicate](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiSindhuSubbisetty/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
